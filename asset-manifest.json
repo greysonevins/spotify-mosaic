@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/spotify-mosaic/static/css/main.5f361e03.chunk.css",
-    "main.js": "/spotify-mosaic/static/js/main.377bf8f9.chunk.js",
-    "main.js.map": "/spotify-mosaic/static/js/main.377bf8f9.chunk.js.map",
-    "runtime-main.js": "/spotify-mosaic/static/js/runtime-main.6a723219.js",
-    "runtime-main.js.map": "/spotify-mosaic/static/js/runtime-main.6a723219.js.map",
-    "static/js/2.6f46a76c.chunk.js": "/spotify-mosaic/static/js/2.6f46a76c.chunk.js",
-    "static/js/2.6f46a76c.chunk.js.map": "/spotify-mosaic/static/js/2.6f46a76c.chunk.js.map",
-    "static/js/3.164065d5.chunk.js": "/spotify-mosaic/static/js/3.164065d5.chunk.js",
-    "static/js/3.164065d5.chunk.js.map": "/spotify-mosaic/static/js/3.164065d5.chunk.js.map",
+    "main.js": "/spotify-mosaic/static/js/main.4570a23c.chunk.js",
+    "main.js.map": "/spotify-mosaic/static/js/main.4570a23c.chunk.js.map",
+    "runtime-main.js": "/spotify-mosaic/static/js/runtime-main.50332b7d.js",
+    "runtime-main.js.map": "/spotify-mosaic/static/js/runtime-main.50332b7d.js.map",
+    "static/js/2.f366a54f.chunk.js": "/spotify-mosaic/static/js/2.f366a54f.chunk.js",
+    "static/js/2.f366a54f.chunk.js.map": "/spotify-mosaic/static/js/2.f366a54f.chunk.js.map",
+    "static/js/3.df4e51a4.chunk.js": "/spotify-mosaic/static/js/3.df4e51a4.chunk.js",
+    "static/js/3.df4e51a4.chunk.js.map": "/spotify-mosaic/static/js/3.df4e51a4.chunk.js.map",
     "index.html": "/spotify-mosaic/index.html",
-    "precache-manifest.536580deb326e4ae6b520d577dfd6aea.js": "/spotify-mosaic/precache-manifest.536580deb326e4ae6b520d577dfd6aea.js",
+    "precache-manifest.b7d517ddd4f1d6ac7e841af110b26704.js": "/spotify-mosaic/precache-manifest.b7d517ddd4f1d6ac7e841af110b26704.js",
     "service-worker.js": "/spotify-mosaic/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/spotify-mosaic/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.6f46a76c.chunk.js.LICENSE.txt": "/spotify-mosaic/static/js/2.6f46a76c.chunk.js.LICENSE.txt",
+    "static/js/2.f366a54f.chunk.js.LICENSE.txt": "/spotify-mosaic/static/js/2.f366a54f.chunk.js.LICENSE.txt",
     "static/media/spotify_load_1.gif": "/spotify-mosaic/static/media/spotify_load_1.f63a638c.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.6a723219.js",
-    "static/js/2.6f46a76c.chunk.js",
+    "static/js/runtime-main.50332b7d.js",
+    "static/js/2.f366a54f.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.377bf8f9.chunk.js"
+    "static/js/main.4570a23c.chunk.js"
   ]
 }
