@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/spotify-mosaic/static/css/main.5f361e03.chunk.css",
-    "main.js": "/spotify-mosaic/static/js/main.359ab29a.chunk.js",
-    "main.js.map": "/spotify-mosaic/static/js/main.359ab29a.chunk.js.map",
+    "main.js": "/spotify-mosaic/static/js/main.3edaf9ff.chunk.js",
+    "main.js.map": "/spotify-mosaic/static/js/main.3edaf9ff.chunk.js.map",
     "runtime-main.js": "/spotify-mosaic/static/js/runtime-main.cc47a137.js",
     "runtime-main.js.map": "/spotify-mosaic/static/js/runtime-main.cc47a137.js.map",
     "static/js/2.d23a23d3.chunk.js": "/spotify-mosaic/static/js/2.d23a23d3.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.38e191b1.chunk.js": "/spotify-mosaic/static/js/3.38e191b1.chunk.js",
     "static/js/3.38e191b1.chunk.js.map": "/spotify-mosaic/static/js/3.38e191b1.chunk.js.map",
     "index.html": "/spotify-mosaic/index.html",
-    "precache-manifest.98324725809d55f94cff4c8e502b65f2.js": "/spotify-mosaic/precache-manifest.98324725809d55f94cff4c8e502b65f2.js",
+    "precache-manifest.8481e1fb496e62719204e6063e8e228e.js": "/spotify-mosaic/precache-manifest.8481e1fb496e62719204e6063e8e228e.js",
     "service-worker.js": "/spotify-mosaic/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/spotify-mosaic/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.d23a23d3.chunk.js.LICENSE.txt": "/spotify-mosaic/static/js/2.d23a23d3.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.cc47a137.js",
     "static/js/2.d23a23d3.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.359ab29a.chunk.js"
+    "static/js/main.3edaf9ff.chunk.js"
   ]
 }
