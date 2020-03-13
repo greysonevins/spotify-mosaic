@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e3803482143640344b4c98aca0b83c2d",
+    "revision": "d54c54a1ce721497d47b334426e1992b",
     "url": "/spotify-mosaic/index.html"
   },
   {
-    "revision": "774046eb09632406132b",
+    "revision": "88dbf88ff6c46a382d1e",
     "url": "/spotify-mosaic/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spotify-mosaic/static/js/3.21779c7a.chunk.js"
   },
   {
-    "revision": "774046eb09632406132b",
-    "url": "/spotify-mosaic/static/js/main.5cfd26c0.chunk.js"
+    "revision": "88dbf88ff6c46a382d1e",
+    "url": "/spotify-mosaic/static/js/main.ed401f04.chunk.js"
   },
   {
     "revision": "feeef3867bb0134069c3",
